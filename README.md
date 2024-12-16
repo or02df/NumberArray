@@ -13,7 +13,7 @@ The ArrayOfNumbers project serves as:
 - A reference implementation for students to learn testing concepts.
 - A practical foundation for practicing unit testing and exploring good programming practices.
 - A resource for understanding how to integrate business logic with a Windows Forms GUI.
-- 
+  
 ---
 
 ### **Contact**
